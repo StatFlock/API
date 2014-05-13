@@ -1,0 +1,13 @@
+{
+  "main": "./lib/app",
+  "license": "Apache2",
+  "name": "statflock",
+  "dependencies": {
+    "couchbase": "~1.0.1",
+    "express": "~3.4.8",
+    "uuid": "~1.4.1",
+    "mixpanel": "0.0.20"
+  },
+  "devDependencies": {},
+  "version": "0.0.1"
+}
