@@ -1,7 +1,7 @@
 StatFlock's API
 ===
 
-The core API powering the world's first open source sports data platform.
+Powering the world's first open source sports data platform.
 ---
 
 Quick Links
