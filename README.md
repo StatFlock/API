@@ -1,8 +1,8 @@
 StatFlock's API
 ===
-
 Powering the world's first open source sports data platform.
 ---
+The courts proved that the statistical data for any sporting event is not, and cannot be, owned by anyone. However, there are a handful companies closely guarding the statistical results from sporting events in our country. Our open source sports data platform disrupts that model and puts the data in the hands of the people.
 
 Quick Links
 ---
