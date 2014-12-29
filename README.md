@@ -1,4 +1,4 @@
-StatFlock's API
+StatFlock's API ![Alt text](https://travis-ci.org/StatFlock/API.svg?branch=master "Travis CI Build Status")
 ===
 Powering the world's first open source sports data platform.
 ---
