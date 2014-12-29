@@ -6,7 +6,7 @@
     "couchbase": "~2.0.*",
     "express": "~4.10.*",
     "uuid": "~2.0.*",
-    "mixpanel": "0.0.*"
+    "mixpanel": "0.0.20"
   },
   "devDependencies": {},
   "version": "0.0.2"
